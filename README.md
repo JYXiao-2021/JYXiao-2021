@@ -1,6 +1,6 @@
 ### Hi there 👋
 ---
-<img align="center" width= "300" src= "https://github.com/JYXiao-2021/JYXiao-2021/blob/main/assets/pusheencode.gif"/>
+<img align="right" width= "300" src= "https://github.com/JYXiao-2021/JYXiao-2021/blob/main/assets/pusheencode.gif"/>
 
 
 <!--
