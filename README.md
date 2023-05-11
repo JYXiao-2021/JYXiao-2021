@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### About me
 
 - 🎓 A Computer Science Master Student
-- 🌱 Currently finising Master and looking for new grad SDE position
+- 🌱 Currently finising Master and looking for new grad SDE/SWE position
 - 🤔 Exploring open source 
 - 😄 Pronouns: She/Her
 - 📫 How to reach me:[Gmail](mailto:jyx37254015@gwmail.gwu.edu)
